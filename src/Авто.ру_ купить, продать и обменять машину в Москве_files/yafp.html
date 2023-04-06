@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<!-- saved from url=(0032)https://auto.ru/static/yafp.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+<body>
+    <script type="text/javascript">
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = 'https://yandex.ru/captchapgrd';
+
+        script.onload = function() {
+            function postFingerprint(fp) {
+                window.parent.postMessage({ type: 'yafp', value: JSON.stringify(fp) }, '*');
+            }
+            if(PGreed && typeof PGreed.get === 'function') { PGreed.get().then(postFingerprint); }
+        }
+        document.body.appendChild(script);
+    </script><script async="" src="./captchapgrd"></script>
+
+</body></html>

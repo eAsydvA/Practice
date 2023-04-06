@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<!-- saved from url=(0031)https://pro.auto.ru/metric.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+  <script async="" src="./tag.js.Без названия"></script><script>
+    (function (m, e, t, r, i, k, a) {
+      m[i] = m[i] || function () { (m[i].a = m[i].a || []).push(arguments) };
+      m[i].l = 1 * new Date(); k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+    })(window, document, 'script', 'https://mc.yandex.ru/metrika/tag.js', 'ym');
+
+    const metrikId = 71382550;
+    const initParams = {
+      params: {
+        los: '0',
+        autoruuid: '-',
+      },
+      accurateTrackBounce: true,
+      clickmap: false,
+      ecommerce: 'dataLayer',
+      trackLinks: true,
+      webvisor: false,
+    };
+
+    ym(metrikId, 'init', initParams);
+  </script>
+  <script>
+    const isValidOrigin = origin =>
+      /^(https:\/\/)?(m\.)?(test\.)?a[uv]to\.ru$/.test(origin) ||
+      /^(https:\/\/)?(m\.)?frontend\.?.*\.dev\.vertis\.yandex\.net$/.test(origin);
+
+    function listener(event) {
+      const { data, origin } = event;
+      const counter = window[`yaCounter${metrikId}`];
+
+
+      if (!isValidOrigin(origin)) return;
+
+      switch (data.type) {
+        case 'ecommerce':
+          window.dataLayer = window.dataLayer || [];
+          window.dataLayer.push({ ecommerce: data.ecommerce });
+          break;
+        case 'getClientID':
+          counter.getClientID();
+          break;
+        case 'hit':
+          counter.hit(data.url, data.opts);
+          break;
+        case 'params':
+          counter.params(data.params);
+          break;
+        case 'reachGoal':
+          counter.reachGoal(data.goal, data.params);
+          break;
+        default:
+          break;
+      }
+    }
+    window.addEventListener('message', listener);
+  </script>
+
+
+
+
+</body></html>
