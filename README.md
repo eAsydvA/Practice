@@ -22,7 +22,30 @@ Auto.ru (А́вто.ру) — автомобильный сайт в Рунет�
 
 
 Задание №2
+
 Добавьте метод для вывода одного наименования по указанному индексу.
+
 ![image](https://user-images.githubusercontent.com/130033819/230927816-9e554590-506c-4925-9b95-107129c7e704.png)
 ![image](https://user-images.githubusercontent.com/130033819/230927940-87879150-a5ed-44a1-892e-34bb5cd6d701.png)
 ![image](https://user-images.githubusercontent.com/130033819/230928024-532f17e6-feff-4613-ad39-a371ef19dc6a.png)
+
+Задание№3
+
+Добавьте метод для получения количества записей по указываемому имени.
+
+![image](https://user-images.githubusercontent.com/130033819/230928509-3304c10f-0b62-4255-9f2c-daf2f483562c.png)
+![image](https://user-images.githubusercontent.com/130033819/230928650-1f2abd18-bee3-4f4a-8f30-45936659776d.png)
+![image](https://user-images.githubusercontent.com/130033819/230929460-dd5eaba9-39dc-4a77-85c1-a1b70ea5c09e.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
