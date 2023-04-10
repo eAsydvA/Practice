@@ -58,6 +58,13 @@ d. При всех остальных значениях вернуть ошиб
 сообщением “Некорректное значение параметра sortStrategy”
 
 
+![image](https://user-images.githubusercontent.com/130033819/230930870-c8a15124-5037-4a96-917f-eecf118f1354.png)
+![image](https://user-images.githubusercontent.com/130033819/230930244-6de968b0-894d-41e5-8abf-3230181dff88.png)
+
+a) ![image](https://user-images.githubusercontent.com/130033819/230930359-1cf920cf-9695-42fe-8612-4616d046d19f.png)
+b) ![image](https://user-images.githubusercontent.com/130033819/230930990-aa249aaa-e0fb-47d9-b016-0eb6a573ac57.png)
+c) ![image](https://user-images.githubusercontent.com/130033819/230931100-388854af-8642-4101-a6b2-3c9e9d20eeab.png)
+
 
 
 
