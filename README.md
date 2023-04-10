@@ -74,6 +74,27 @@ c) ![image](https://user-images.githubusercontent.com/130033819/230931100-388854
 ![image](https://user-images.githubusercontent.com/130033819/230933096-e3624300-e96f-441a-8cd6-0e8db36db820.png)
 
 
+# Practice(Задание три точка один 07.04.23)
+
+Миграция таблиц базы данных в приложение
+
+Пока не получается сделать ![image](https://user-images.githubusercontent.com/130033819/230940459-cc21e5ac-2347-4d5c-8fd5-e0ae8eebabf2.png)
+
+
+
+
+
+
+
+# Practice(Задание четыре 10.04.23)
+
+Знакомство с HTML и CSS. Формирование макета.
+
+
+
+
+
+
 
 
 
