@@ -69,8 +69,9 @@ c) ![image](https://user-images.githubusercontent.com/130033819/230931100-388854
 
 # Practice(Задание третье 07.04.23)
 
-Проектирование БД для API
-интернет-магазина
+Проектирование БД для API интернет-магазина
+
+![image](https://user-images.githubusercontent.com/130033819/230933096-e3624300-e96f-441a-8cd6-0e8db36db820.png)
 
 
 
