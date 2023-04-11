@@ -95,11 +95,17 @@ c) ![image](https://user-images.githubusercontent.com/130033819/230931100-388854
 2. Создайте 3 файла html, на которые будет производиться переход при помощи навигационной панели.
 
 Пока сделано вот так ![image](https://user-images.githubusercontent.com/130033819/230955286-4ba9d0c1-b5ab-4717-a60d-83d9b1e29a19.png)
+
 Сейчас сайт выглядит так ![image](https://user-images.githubusercontent.com/130033819/231115169-bb516694-a207-4f5d-832c-c1f5b2e07a0b.png)
+
 Вот как сделана последняя версия сайта ![image](https://user-images.githubusercontent.com/130033819/231138722-0e9d34c3-a8c7-4eb9-b7e9-adab2da9ad9e.png)
+
 Добавлены две доп страницы, достпук к которым осуществляется по кнопочкам ![image](https://user-images.githubusercontent.com/130033819/231139183-51d89e90-110e-489d-b7be-4c724a86a0ee.png)
+
 Страница адрес ![image](https://user-images.githubusercontent.com/130033819/231139289-af774da2-90c2-4f77-bc17-008ac50e34d2.png)
+
 Страница услуги ![image](https://user-images.githubusercontent.com/130033819/231139361-ee1df40c-989d-4465-84a3-403a155dea83.png)
+
 
 
 
