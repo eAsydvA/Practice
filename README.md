@@ -96,4 +96,6 @@ c) ![image](https://user-images.githubusercontent.com/130033819/230931100-388854
 
 Пока сделано вот так ![image](https://user-images.githubusercontent.com/130033819/230955286-4ba9d0c1-b5ab-4717-a60d-83d9b1e29a19.png)
 Сейчас сайт выглядит так ![image](https://user-images.githubusercontent.com/130033819/231115169-bb516694-a207-4f5d-832c-c1f5b2e07a0b.png)
+Вот как сделана последняя версия сайта ![image](https://user-images.githubusercontent.com/130033819/231138722-0e9d34c3-a8c7-4eb9-b7e9-adab2da9ad9e.png)
+
 
