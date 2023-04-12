@@ -114,5 +114,5 @@ c) ![image](https://user-images.githubusercontent.com/130033819/230931100-388854
 # Practice(Задание пятое)
 
 ![image](https://user-images.githubusercontent.com/130033819/231462847-e2dbb789-b864-4e1b-80c2-8ee9c18e9454.png)
-
+ 
 
