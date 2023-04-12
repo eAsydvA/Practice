@@ -80,6 +80,9 @@ c) ![image](https://user-images.githubusercontent.com/130033819/230931100-388854
 
 Пока не получается сделать ![image](https://user-images.githubusercontent.com/130033819/230940459-cc21e5ac-2347-4d5c-8fd5-e0ae8eebabf2.png)
 
+Получилось ![image](https://user-images.githubusercontent.com/130033819/231412768-627e2718-5241-4f24-a789-b85ae3a4c080.png)
+
+
 
 
 
